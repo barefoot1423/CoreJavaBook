@@ -3,6 +3,7 @@ package v1.ch4;
 import java.time.LocalDate;
 
 public class Employee {
+
     private String name;
     private double salary;
     private LocalDate hireDay;
