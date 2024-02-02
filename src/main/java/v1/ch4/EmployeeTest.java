@@ -10,7 +10,7 @@ public class EmployeeTest {
         staff[2] = new Employee("Tony Tester", 40000, 1990, 3, 15);
 
         for (Employee e : staff) {
-            e.raiseSalary(10);
+            e.raiseSalary(20);
         }
 
         for (Employee e : staff) {
