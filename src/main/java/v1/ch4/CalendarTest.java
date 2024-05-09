@@ -26,7 +26,6 @@ public class CalendarTest {
                 }
 
 
-
                 date = date.plusDays(1);
                 if (date.getDayOfWeek().getValue() == 1) {
                     System.out.println();
